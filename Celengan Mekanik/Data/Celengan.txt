@@ -1,0 +1,6 @@
+**DESKRIPSI:
+Celenangan kotak dengan foto wajah.
+Wajah awal sedih, setelah dimasukin koin jadi hapy.
+Perubahan wajah dari dorongan gerak mekanik koin.
+
+
