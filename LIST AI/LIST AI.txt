@@ -1,0 +1,46 @@
+LIST AI
+
+ChatGPT: Write copy, answer questions
+http://chat.openai.com
+
+Stable Diffusion: Open AI Tools
+https://stability.ai/blog/stable-diffusion-public-release
+
+Midjourney: Generate beautiful images with one line of text
+https://www.midjourney.com/
+
+Stable Diffusion Subreddit
+https://www.reddit.com/r/StableDiffusion/
+
+Open AI: GPT-3 (Natural Language) & Codex (Natural Language to Code)
+https://openai.com/api/
+
+NeuroFlash: AI Writer
+https://neuroflash.com/
+
+Whisper: Open Source AI Speech Recognition
+https://openai.com/blog/whisper/
+
+DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
+https://dreambooth.github.io/
+
+Dreambooth GUI
+https://github.com/smy20011/dreambooth-gui
+
+Img2Img: AI Image Creation From an Image
+https://huggingface.co/spaces/fffiloni/stable-diffusion-img2img
+
+Github Co-pilot: Your AI Pair Programmer
+https://github.com/features/copilot
+
+Synthesia: Create Videos from Plain Text in Minutes
+https://www.synthesia.io/
+
+Uberduck: Make AI voiceovers with 5,000+ expressive voices
+http://uberduck.ai
+
+Public Prompts: Free Prompts
+https://publicprompts.art/
+
+Prompt Base: Paid Prompt Marketplace
+https://promptbase.com/

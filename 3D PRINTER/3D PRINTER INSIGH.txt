@@ -1,0 +1,14 @@
+BELI 3D PRINTER
+- Anet A8 V2 Metal Frame Terbaru i3
+- https://shopee.co.id/product/44528146/20322556714/
+
+**Important data:
+Filament = 150rb dapat 1kg
+Listrik 24 Watt
+Temp 250 C
+
+
+toDo List:
+- Bagaimana cara pakai cura?
+- Cek cara print dan kendalanya
+- Cara bikin design dan mindahin data design freecad ke 3d printer
